@@ -8,6 +8,10 @@ OUTPUT_PATH = 'ngrams-per-file.txt'
 
 
 def process_files(directory):
+    """
+    Process each file in the specified directory and determines the number of ngrams.
+    :param directory: The directory to determine the ngrams for.
+    """
     with open(OUTPUT_PATH, 'w+') as f:
         f.write('')
     files = Path(directory).glob('*')
@@ -22,18 +26,33 @@ def process_files(directory):
 
 
 def _keep_letters_and_numbers(texts):
+    """
+    Remove all non-alphanumeric characters from strings.
+    :param texts: The sentences to process.
+    :return: The processed sentences.
+    """
     for i, text in enumerate(texts):
         texts[i] = re.sub(r'[^A-Za-z0-9 ]+', '', text)
     return texts
 
 
 def _convert_to_lower_case(texts):
+    """
+    Converts strings to lower-case.
+    :param texts: The sentences to process.
+    :return: The processed sentences.
+    """
     for i, text in enumerate(texts):
         texts[i] = text.lower()
     return texts
 
 
 def _calculate_ngrams(sentences, file):
+    """
+    Calculates the ngrams for sentences and writes them to the output file.
+    :param sentences: The sentences to calculate ngrams for.
+    :param file: The file to write to.
+    """
     for sentence in sentences:
         count = 1
         while count <= 10:
