@@ -1,2 +1,5 @@
 Pipfile
 Pipfile.lock
+.idea
+.DS_Store
+*.pyc
