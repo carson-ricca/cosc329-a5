@@ -1,0 +1,101 @@
+Processing data/h.txt ...
+n = 1
+['computer', 'science', 'is', 'the', 'study', 'of', 'computing', 'and', 'its', 'use', 'in', 'applications', 'through', 'the', 'method', 'of', 'maths', 'logic', 'and', 'programming', 'languages']
+n = 2
+['computer science', 'science is', 'is the', 'the study', 'study of', 'of computing', 'computing and', 'and its', 'its use', 'use in', 'in applications', 'applications through', 'through the', 'the method', 'method of', 'of maths', 'maths logic', 'logic and', 'and programming', 'programming languages']
+n = 3
+['computer science is', 'science is the', 'is the study', 'the study of', 'study of computing', 'of computing and', 'computing and its', 'and its use', 'its use in', 'use in applications', 'in applications through', 'applications through the', 'through the method', 'the method of', 'method of maths', 'of maths logic', 'maths logic and', 'logic and programming', 'and programming languages']
+n = 4
+['computer science is the', 'science is the study', 'is the study of', 'the study of computing', 'study of computing and', 'of computing and its', 'computing and its use', 'and its use in', 'its use in applications', 'use in applications through', 'in applications through the', 'applications through the method', 'through the method of', 'the method of maths', 'method of maths logic', 'of maths logic and', 'maths logic and programming', 'logic and programming languages']
+n = 5
+['computer science is the study', 'science is the study of', 'is the study of computing', 'the study of computing and', 'study of computing and its', 'of computing and its use', 'computing and its use in', 'and its use in applications', 'its use in applications through', 'use in applications through the', 'in applications through the method', 'applications through the method of', 'through the method of maths', 'the method of maths logic', 'method of maths logic and', 'of maths logic and programming', 'maths logic and programming languages']
+n = 6
+['computer science is the study of', 'science is the study of computing', 'is the study of computing and', 'the study of computing and its', 'study of computing and its use', 'of computing and its use in', 'computing and its use in applications', 'and its use in applications through', 'its use in applications through the', 'use in applications through the method', 'in applications through the method of', 'applications through the method of maths', 'through the method of maths logic', 'the method of maths logic and', 'method of maths logic and programming', 'of maths logic and programming languages']
+n = 7
+['computer science is the study of computing', 'science is the study of computing and', 'is the study of computing and its', 'the study of computing and its use', 'study of computing and its use in', 'of computing and its use in applications', 'computing and its use in applications through', 'and its use in applications through the', 'its use in applications through the method', 'use in applications through the method of', 'in applications through the method of maths', 'applications through the method of maths logic', 'through the method of maths logic and', 'the method of maths logic and programming', 'method of maths logic and programming languages']
+n = 8
+['computer science is the study of computing and', 'science is the study of computing and its', 'is the study of computing and its use', 'the study of computing and its use in', 'study of computing and its use in applications', 'of computing and its use in applications through', 'computing and its use in applications through the', 'and its use in applications through the method', 'its use in applications through the method of', 'use in applications through the method of maths', 'in applications through the method of maths logic', 'applications through the method of maths logic and', 'through the method of maths logic and programming', 'the method of maths logic and programming languages']
+n = 9
+['computer science is the study of computing and its', 'science is the study of computing and its use', 'is the study of computing and its use in', 'the study of computing and its use in applications', 'study of computing and its use in applications through', 'of computing and its use in applications through the', 'computing and its use in applications through the method', 'and its use in applications through the method of', 'its use in applications through the method of maths', 'use in applications through the method of maths logic', 'in applications through the method of maths logic and', 'applications through the method of maths logic and programming', 'through the method of maths logic and programming languages']
+n = 10
+['computer science is the study of computing and its use', 'science is the study of computing and its use in', 'is the study of computing and its use in applications', 'the study of computing and its use in applications through', 'study of computing and its use in applications through the', 'of computing and its use in applications through the method', 'computing and its use in applications through the method of', 'and its use in applications through the method of maths', 'its use in applications through the method of maths logic', 'use in applications through the method of maths logic and', 'in applications through the method of maths logic and programming', 'applications through the method of maths logic and programming languages']
+n = 1
+['as', 'you', 'know', 'computers', 'has', 'a', 'lot', 'of', 'use', 'in', 'daily', 'life', 'like', 'how', 'does', 'our', 'laptop', 'work', 'and', 'how', 'does', 'the', 'laptop', 'process', 'any', 'request', 'you', 'make']
+n = 2
+['as you', 'you know', 'know computers', 'computers has', 'has a', 'a lot', 'lot of', 'of use', 'use in', 'in daily', 'daily life', 'life like', 'like how', 'how does', 'does our', 'our laptop', 'laptop work', 'work and', 'and how', 'how does', 'does the', 'the laptop', 'laptop process', 'process any', 'any request', 'request you', 'you make']
+n = 3
+['as you know', 'you know computers', 'know computers has', 'computers has a', 'has a lot', 'a lot of', 'lot of use', 'of use in', 'use in daily', 'in daily life', 'daily life like', 'life like how', 'like how does', 'how does our', 'does our laptop', 'our laptop work', 'laptop work and', 'work and how', 'and how does', 'how does the', 'does the laptop', 'the laptop process', 'laptop process any', 'process any request', 'any request you', 'request you make']
+n = 4
+['as you know computers', 'you know computers has', 'know computers has a', 'computers has a lot', 'has a lot of', 'a lot of use', 'lot of use in', 'of use in daily', 'use in daily life', 'in daily life like', 'daily life like how', 'life like how does', 'like how does our', 'how does our laptop', 'does our laptop work', 'our laptop work and', 'laptop work and how', 'work and how does', 'and how does the', 'how does the laptop', 'does the laptop process', 'the laptop process any', 'laptop process any request', 'process any request you', 'any request you make']
+n = 5
+['as you know computers has', 'you know computers has a', 'know computers has a lot', 'computers has a lot of', 'has a lot of use', 'a lot of use in', 'lot of use in daily', 'of use in daily life', 'use in daily life like', 'in daily life like how', 'daily life like how does', 'life like how does our', 'like how does our laptop', 'how does our laptop work', 'does our laptop work and', 'our laptop work and how', 'laptop work and how does', 'work and how does the', 'and how does the laptop', 'how does the laptop process', 'does the laptop process any', 'the laptop process any request', 'laptop process any request you', 'process any request you make']
+n = 6
+['as you know computers has a', 'you know computers has a lot', 'know computers has a lot of', 'computers has a lot of use', 'has a lot of use in', 'a lot of use in daily', 'lot of use in daily life', 'of use in daily life like', 'use in daily life like how', 'in daily life like how does', 'daily life like how does our', 'life like how does our laptop', 'like how does our laptop work', 'how does our laptop work and', 'does our laptop work and how', 'our laptop work and how does', 'laptop work and how does the', 'work and how does the laptop', 'and how does the laptop process', 'how does the laptop process any', 'does the laptop process any request', 'the laptop process any request you', 'laptop process any request you make']
+n = 7
+['as you know computers has a lot', 'you know computers has a lot of', 'know computers has a lot of use', 'computers has a lot of use in', 'has a lot of use in daily', 'a lot of use in daily life', 'lot of use in daily life like', 'of use in daily life like how', 'use in daily life like how does', 'in daily life like how does our', 'daily life like how does our laptop', 'life like how does our laptop work', 'like how does our laptop work and', 'how does our laptop work and how', 'does our laptop work and how does', 'our laptop work and how does the', 'laptop work and how does the laptop', 'work and how does the laptop process', 'and how does the laptop process any', 'how does the laptop process any request', 'does the laptop process any request you', 'the laptop process any request you make']
+n = 8
+['as you know computers has a lot of', 'you know computers has a lot of use', 'know computers has a lot of use in', 'computers has a lot of use in daily', 'has a lot of use in daily life', 'a lot of use in daily life like', 'lot of use in daily life like how', 'of use in daily life like how does', 'use in daily life like how does our', 'in daily life like how does our laptop', 'daily life like how does our laptop work', 'life like how does our laptop work and', 'like how does our laptop work and how', 'how does our laptop work and how does', 'does our laptop work and how does the', 'our laptop work and how does the laptop', 'laptop work and how does the laptop process', 'work and how does the laptop process any', 'and how does the laptop process any request', 'how does the laptop process any request you', 'does the laptop process any request you make']
+n = 9
+['as you know computers has a lot of use', 'you know computers has a lot of use in', 'know computers has a lot of use in daily', 'computers has a lot of use in daily life', 'has a lot of use in daily life like', 'a lot of use in daily life like how', 'lot of use in daily life like how does', 'of use in daily life like how does our', 'use in daily life like how does our laptop', 'in daily life like how does our laptop work', 'daily life like how does our laptop work and', 'life like how does our laptop work and how', 'like how does our laptop work and how does', 'how does our laptop work and how does the', 'does our laptop work and how does the laptop', 'our laptop work and how does the laptop process', 'laptop work and how does the laptop process any', 'work and how does the laptop process any request', 'and how does the laptop process any request you', 'how does the laptop process any request you make']
+n = 10
+['as you know computers has a lot of use in', 'you know computers has a lot of use in daily', 'know computers has a lot of use in daily life', 'computers has a lot of use in daily life like', 'has a lot of use in daily life like how', 'a lot of use in daily life like how does', 'lot of use in daily life like how does our', 'of use in daily life like how does our laptop', 'use in daily life like how does our laptop work', 'in daily life like how does our laptop work and', 'daily life like how does our laptop work and how', 'life like how does our laptop work and how does', 'like how does our laptop work and how does the', 'how does our laptop work and how does the laptop', 'does our laptop work and how does the laptop process', 'our laptop work and how does the laptop process any', 'laptop work and how does the laptop process any request', 'work and how does the laptop process any request you', 'and how does the laptop process any request you make']
+n = 1
+['you', 'can', 'do', 'so', 'interesting', 'things', 'with', 'it']
+n = 2
+['you can', 'can do', 'do so', 'so interesting', 'interesting things', 'things with', 'with it']
+n = 3
+['you can do', 'can do so', 'do so interesting', 'so interesting things', 'interesting things with', 'things with it']
+n = 4
+['you can do so', 'can do so interesting', 'do so interesting things', 'so interesting things with', 'interesting things with it']
+n = 5
+['you can do so interesting', 'can do so interesting things', 'do so interesting things with', 'so interesting things with it']
+n = 6
+['you can do so interesting things', 'can do so interesting things with', 'do so interesting things with it']
+n = 7
+['you can do so interesting things with', 'can do so interesting things with it']
+n = 8
+['you can do so interesting things with it']
+n = 9
+[]
+n = 10
+[]
+n = 1
+['as', 'a', 'programmer', 'there', 'are', 'also', 'many', 'things', 'that', 'you', 'can', 'do', 'too']
+n = 2
+['as a', 'a programmer', 'programmer there', 'there are', 'are also', 'also many', 'many things', 'things that', 'that you', 'you can', 'can do', 'do too']
+n = 3
+['as a programmer', 'a programmer there', 'programmer there are', 'there are also', 'are also many', 'also many things', 'many things that', 'things that you', 'that you can', 'you can do', 'can do too']
+n = 4
+['as a programmer there', 'a programmer there are', 'programmer there are also', 'there are also many', 'are also many things', 'also many things that', 'many things that you', 'things that you can', 'that you can do', 'you can do too']
+n = 5
+['as a programmer there are', 'a programmer there are also', 'programmer there are also many', 'there are also many things', 'are also many things that', 'also many things that you', 'many things that you can', 'things that you can do', 'that you can do too']
+n = 6
+['as a programmer there are also', 'a programmer there are also many', 'programmer there are also many things', 'there are also many things that', 'are also many things that you', 'also many things that you can', 'many things that you can do', 'things that you can do too']
+n = 7
+['as a programmer there are also many', 'a programmer there are also many things', 'programmer there are also many things that', 'there are also many things that you', 'are also many things that you can', 'also many things that you can do', 'many things that you can do too']
+n = 8
+['as a programmer there are also many things', 'a programmer there are also many things that', 'programmer there are also many things that you', 'there are also many things that you can', 'are also many things that you can do', 'also many things that you can do too']
+n = 9
+['as a programmer there are also many things that', 'a programmer there are also many things that you', 'programmer there are also many things that you can', 'there are also many things that you can do', 'are also many things that you can do too']
+n = 10
+['as a programmer there are also many things that you', 'a programmer there are also many things that you can', 'programmer there are also many things that you can do', 'there are also many things that you can do too']
+n = 1
+['therefore', 'try', 'programming']
+n = 2
+['therefore try', 'try programming']
+n = 3
+['therefore try programming']
+n = 4
+[]
+n = 5
+[]
+n = 6
+[]
+n = 7
+[]
+n = 8
+[]
+n = 9
+[]
+n = 10
+[]

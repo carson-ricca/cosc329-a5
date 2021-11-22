@@ -1,10 +1,12 @@
+import os
 import re
 import nltk
 from pathlib import Path
 
-nltk.download('punkt')
+from util import mkdir_if_not_exists
 
-OUTPUT_PATH = 'ngrams-per-file.txt'
+nltk.download('punkt')
+PROCESSED = 'processed/'
 
 
 def process_files(directory):
@@ -12,15 +14,16 @@ def process_files(directory):
     Process each file in the specified directory and determines the number of ngrams.
     :param directory: The directory to determine the ngrams for.
     """
-    with open(OUTPUT_PATH, 'w+') as f:
-        f.write('')
+    mkdir_if_not_exists(PROCESSED)
     files = Path(directory).glob('*')
     for file in files:
+        with open(f'processed/processed-{os.path.basename(file)}', 'w+') as f:
+            f.write('')
         with open(file) as f:
             lines = f.read()
             sentences = _keep_letters_and_numbers(nltk.tokenize.sent_tokenize(lines))
             processed_sentences = _convert_to_lower_case(sentences)
-            with open(OUTPUT_PATH, 'a') as output_file:
+            with open(f'processed/processed-{os.path.basename(file)}', 'a') as output_file:
                 output_file.write(f'Processing {file} ...\n')
                 _calculate_ngrams(processed_sentences, output_file)
 

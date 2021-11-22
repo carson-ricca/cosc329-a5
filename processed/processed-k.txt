@@ -1,0 +1,101 @@
+Processing data/k.txt ...
+n = 1
+['computer', 'science', 'is', 'the', 'science', 'of', 'computers']
+n = 2
+['computer science', 'science is', 'is the', 'the science', 'science of', 'of computers']
+n = 3
+['computer science is', 'science is the', 'is the science', 'the science of', 'science of computers']
+n = 4
+['computer science is the', 'science is the science', 'is the science of', 'the science of computers']
+n = 5
+['computer science is the science', 'science is the science of', 'is the science of computers']
+n = 6
+['computer science is the science of', 'science is the science of computers']
+n = 7
+['computer science is the science of computers']
+n = 8
+[]
+n = 9
+[]
+n = 10
+[]
+n = 1
+['when', 'you', 'learn', 'computer', 'science', 'you', 'learn', 'about', 'how', 'computers', 'work']
+n = 2
+['when you', 'you learn', 'learn computer', 'computer science', 'science you', 'you learn', 'learn about', 'about how', 'how computers', 'computers work']
+n = 3
+['when you learn', 'you learn computer', 'learn computer science', 'computer science you', 'science you learn', 'you learn about', 'learn about how', 'about how computers', 'how computers work']
+n = 4
+['when you learn computer', 'you learn computer science', 'learn computer science you', 'computer science you learn', 'science you learn about', 'you learn about how', 'learn about how computers', 'about how computers work']
+n = 5
+['when you learn computer science', 'you learn computer science you', 'learn computer science you learn', 'computer science you learn about', 'science you learn about how', 'you learn about how computers', 'learn about how computers work']
+n = 6
+['when you learn computer science you', 'you learn computer science you learn', 'learn computer science you learn about', 'computer science you learn about how', 'science you learn about how computers', 'you learn about how computers work']
+n = 7
+['when you learn computer science you learn', 'you learn computer science you learn about', 'learn computer science you learn about how', 'computer science you learn about how computers', 'science you learn about how computers work']
+n = 8
+['when you learn computer science you learn about', 'you learn computer science you learn about how', 'learn computer science you learn about how computers', 'computer science you learn about how computers work']
+n = 9
+['when you learn computer science you learn about how', 'you learn computer science you learn about how computers', 'learn computer science you learn about how computers work']
+n = 10
+['when you learn computer science you learn about how computers', 'you learn computer science you learn about how computers work']
+n = 1
+['those', 'computers', 'could', 'be', 'part', 'of', 'lots', 'of', 'different', 'things', 'like', 'your', 'laptop', 'or', 'ipad', 'a', 'robot', 'or', 'even', 'a', 'microwave']
+n = 2
+['those computers', 'computers could', 'could be', 'be part', 'part of', 'of lots', 'lots of', 'of different', 'different things', 'things like', 'like your', 'your laptop', 'laptop or', 'or ipad', 'ipad a', 'a robot', 'robot or', 'or even', 'even a', 'a microwave']
+n = 3
+['those computers could', 'computers could be', 'could be part', 'be part of', 'part of lots', 'of lots of', 'lots of different', 'of different things', 'different things like', 'things like your', 'like your laptop', 'your laptop or', 'laptop or ipad', 'or ipad a', 'ipad a robot', 'a robot or', 'robot or even', 'or even a', 'even a microwave']
+n = 4
+['those computers could be', 'computers could be part', 'could be part of', 'be part of lots', 'part of lots of', 'of lots of different', 'lots of different things', 'of different things like', 'different things like your', 'things like your laptop', 'like your laptop or', 'your laptop or ipad', 'laptop or ipad a', 'or ipad a robot', 'ipad a robot or', 'a robot or even', 'robot or even a', 'or even a microwave']
+n = 5
+['those computers could be part', 'computers could be part of', 'could be part of lots', 'be part of lots of', 'part of lots of different', 'of lots of different things', 'lots of different things like', 'of different things like your', 'different things like your laptop', 'things like your laptop or', 'like your laptop or ipad', 'your laptop or ipad a', 'laptop or ipad a robot', 'or ipad a robot or', 'ipad a robot or even', 'a robot or even a', 'robot or even a microwave']
+n = 6
+['those computers could be part of', 'computers could be part of lots', 'could be part of lots of', 'be part of lots of different', 'part of lots of different things', 'of lots of different things like', 'lots of different things like your', 'of different things like your laptop', 'different things like your laptop or', 'things like your laptop or ipad', 'like your laptop or ipad a', 'your laptop or ipad a robot', 'laptop or ipad a robot or', 'or ipad a robot or even', 'ipad a robot or even a', 'a robot or even a microwave']
+n = 7
+['those computers could be part of lots', 'computers could be part of lots of', 'could be part of lots of different', 'be part of lots of different things', 'part of lots of different things like', 'of lots of different things like your', 'lots of different things like your laptop', 'of different things like your laptop or', 'different things like your laptop or ipad', 'things like your laptop or ipad a', 'like your laptop or ipad a robot', 'your laptop or ipad a robot or', 'laptop or ipad a robot or even', 'or ipad a robot or even a', 'ipad a robot or even a microwave']
+n = 8
+['those computers could be part of lots of', 'computers could be part of lots of different', 'could be part of lots of different things', 'be part of lots of different things like', 'part of lots of different things like your', 'of lots of different things like your laptop', 'lots of different things like your laptop or', 'of different things like your laptop or ipad', 'different things like your laptop or ipad a', 'things like your laptop or ipad a robot', 'like your laptop or ipad a robot or', 'your laptop or ipad a robot or even', 'laptop or ipad a robot or even a', 'or ipad a robot or even a microwave']
+n = 9
+['those computers could be part of lots of different', 'computers could be part of lots of different things', 'could be part of lots of different things like', 'be part of lots of different things like your', 'part of lots of different things like your laptop', 'of lots of different things like your laptop or', 'lots of different things like your laptop or ipad', 'of different things like your laptop or ipad a', 'different things like your laptop or ipad a robot', 'things like your laptop or ipad a robot or', 'like your laptop or ipad a robot or even', 'your laptop or ipad a robot or even a', 'laptop or ipad a robot or even a microwave']
+n = 10
+['those computers could be part of lots of different things', 'computers could be part of lots of different things like', 'could be part of lots of different things like your', 'be part of lots of different things like your laptop', 'part of lots of different things like your laptop or', 'of lots of different things like your laptop or ipad', 'lots of different things like your laptop or ipad a', 'of different things like your laptop or ipad a robot', 'different things like your laptop or ipad a robot or', 'things like your laptop or ipad a robot or even', 'like your laptop or ipad a robot or even a', 'your laptop or ipad a robot or even a microwave']
+n = 1
+['with', 'computer', 'science', 'we', 'can', 'create', 'lots', 'of', 'different', 'things', 'like', 'video', 'games', 'websites', 'and', 'robots', 'that', 'think', 'for', 'themselves']
+n = 2
+['with computer', 'computer science', 'science we', 'we can', 'can create', 'create lots', 'lots of', 'of different', 'different things', 'things like', 'like video', 'video games', 'games websites', 'websites and', 'and robots', 'robots that', 'that think', 'think for', 'for themselves']
+n = 3
+['with computer science', 'computer science we', 'science we can', 'we can create', 'can create lots', 'create lots of', 'lots of different', 'of different things', 'different things like', 'things like video', 'like video games', 'video games websites', 'games websites and', 'websites and robots', 'and robots that', 'robots that think', 'that think for', 'think for themselves']
+n = 4
+['with computer science we', 'computer science we can', 'science we can create', 'we can create lots', 'can create lots of', 'create lots of different', 'lots of different things', 'of different things like', 'different things like video', 'things like video games', 'like video games websites', 'video games websites and', 'games websites and robots', 'websites and robots that', 'and robots that think', 'robots that think for', 'that think for themselves']
+n = 5
+['with computer science we can', 'computer science we can create', 'science we can create lots', 'we can create lots of', 'can create lots of different', 'create lots of different things', 'lots of different things like', 'of different things like video', 'different things like video games', 'things like video games websites', 'like video games websites and', 'video games websites and robots', 'games websites and robots that', 'websites and robots that think', 'and robots that think for', 'robots that think for themselves']
+n = 6
+['with computer science we can create', 'computer science we can create lots', 'science we can create lots of', 'we can create lots of different', 'can create lots of different things', 'create lots of different things like', 'lots of different things like video', 'of different things like video games', 'different things like video games websites', 'things like video games websites and', 'like video games websites and robots', 'video games websites and robots that', 'games websites and robots that think', 'websites and robots that think for', 'and robots that think for themselves']
+n = 7
+['with computer science we can create lots', 'computer science we can create lots of', 'science we can create lots of different', 'we can create lots of different things', 'can create lots of different things like', 'create lots of different things like video', 'lots of different things like video games', 'of different things like video games websites', 'different things like video games websites and', 'things like video games websites and robots', 'like video games websites and robots that', 'video games websites and robots that think', 'games websites and robots that think for', 'websites and robots that think for themselves']
+n = 8
+['with computer science we can create lots of', 'computer science we can create lots of different', 'science we can create lots of different things', 'we can create lots of different things like', 'can create lots of different things like video', 'create lots of different things like video games', 'lots of different things like video games websites', 'of different things like video games websites and', 'different things like video games websites and robots', 'things like video games websites and robots that', 'like video games websites and robots that think', 'video games websites and robots that think for', 'games websites and robots that think for themselves']
+n = 9
+['with computer science we can create lots of different', 'computer science we can create lots of different things', 'science we can create lots of different things like', 'we can create lots of different things like video', 'can create lots of different things like video games', 'create lots of different things like video games websites', 'lots of different things like video games websites and', 'of different things like video games websites and robots', 'different things like video games websites and robots that', 'things like video games websites and robots that think', 'like video games websites and robots that think for', 'video games websites and robots that think for themselves']
+n = 10
+['with computer science we can create lots of different things', 'computer science we can create lots of different things like', 'science we can create lots of different things like video', 'we can create lots of different things like video games', 'can create lots of different things like video games websites', 'create lots of different things like video games websites and', 'lots of different things like video games websites and robots', 'of different things like video games websites and robots that', 'different things like video games websites and robots that think', 'things like video games websites and robots that think for', 'like video games websites and robots that think for themselves']
+n = 1
+['you', 'probably', 'use', 'things', 'that', 'computer', 'scientists', 'have', 'helped', 'make', 'every', 'day', 'you', 'might', 'even', 'be', 'using', 'one', 'right', 'now']
+n = 2
+['you probably', 'probably use', 'use things', 'things that', 'that computer', 'computer scientists', 'scientists have', 'have helped', 'helped make', 'make every', 'every day', 'day you', 'you might', 'might even', 'even be', 'be using', 'using one', 'one right', 'right now']
+n = 3
+['you probably use', 'probably use things', 'use things that', 'things that computer', 'that computer scientists', 'computer scientists have', 'scientists have helped', 'have helped make', 'helped make every', 'make every day', 'every day you', 'day you might', 'you might even', 'might even be', 'even be using', 'be using one', 'using one right', 'one right now']
+n = 4
+['you probably use things', 'probably use things that', 'use things that computer', 'things that computer scientists', 'that computer scientists have', 'computer scientists have helped', 'scientists have helped make', 'have helped make every', 'helped make every day', 'make every day you', 'every day you might', 'day you might even', 'you might even be', 'might even be using', 'even be using one', 'be using one right', 'using one right now']
+n = 5
+['you probably use things that', 'probably use things that computer', 'use things that computer scientists', 'things that computer scientists have', 'that computer scientists have helped', 'computer scientists have helped make', 'scientists have helped make every', 'have helped make every day', 'helped make every day you', 'make every day you might', 'every day you might even', 'day you might even be', 'you might even be using', 'might even be using one', 'even be using one right', 'be using one right now']
+n = 6
+['you probably use things that computer', 'probably use things that computer scientists', 'use things that computer scientists have', 'things that computer scientists have helped', 'that computer scientists have helped make', 'computer scientists have helped make every', 'scientists have helped make every day', 'have helped make every day you', 'helped make every day you might', 'make every day you might even', 'every day you might even be', 'day you might even be using', 'you might even be using one', 'might even be using one right', 'even be using one right now']
+n = 7
+['you probably use things that computer scientists', 'probably use things that computer scientists have', 'use things that computer scientists have helped', 'things that computer scientists have helped make', 'that computer scientists have helped make every', 'computer scientists have helped make every day', 'scientists have helped make every day you', 'have helped make every day you might', 'helped make every day you might even', 'make every day you might even be', 'every day you might even be using', 'day you might even be using one', 'you might even be using one right', 'might even be using one right now']
+n = 8
+['you probably use things that computer scientists have', 'probably use things that computer scientists have helped', 'use things that computer scientists have helped make', 'things that computer scientists have helped make every', 'that computer scientists have helped make every day', 'computer scientists have helped make every day you', 'scientists have helped make every day you might', 'have helped make every day you might even', 'helped make every day you might even be', 'make every day you might even be using', 'every day you might even be using one', 'day you might even be using one right', 'you might even be using one right now']
+n = 9
+['you probably use things that computer scientists have helped', 'probably use things that computer scientists have helped make', 'use things that computer scientists have helped make every', 'things that computer scientists have helped make every day', 'that computer scientists have helped make every day you', 'computer scientists have helped make every day you might', 'scientists have helped make every day you might even', 'have helped make every day you might even be', 'helped make every day you might even be using', 'make every day you might even be using one', 'every day you might even be using one right', 'day you might even be using one right now']
+n = 10
+['you probably use things that computer scientists have helped make', 'probably use things that computer scientists have helped make every', 'use things that computer scientists have helped make every day', 'things that computer scientists have helped make every day you', 'that computer scientists have helped make every day you might', 'computer scientists have helped make every day you might even', 'scientists have helped make every day you might even be', 'have helped make every day you might even be using', 'helped make every day you might even be using one', 'make every day you might even be using one right', 'every day you might even be using one right now']
